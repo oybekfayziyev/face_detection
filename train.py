@@ -1,5 +1,5 @@
 import cognitive_face as CF
-import global_variables as global_var
+import keys as global_var
 import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
