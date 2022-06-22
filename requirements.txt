@@ -1,5 +1,5 @@
 opencv-python==4.2.0.34
-numpy==1.18.1
+numpy==1.22.0
 cryptography==2.8
 openpyxl==3.0.3
 requests==2.22.0
